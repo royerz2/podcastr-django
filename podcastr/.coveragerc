@@ -1,5 +1,0 @@
-[run]
-include = podcastr/*
-omit = *migrations*, *tests*, *templates*
-plugins =
-    django_coverage_plugin

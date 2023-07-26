@@ -1,13 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba9cbf1-3a2f-49a1-b314-e97affbc5376" name="Changes" comment="" />
+    <list default="true" id="1ba9cbf1-3a2f-49a1-b314-e97affbc5376" name="Changes" comment="">
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/podcastr-django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.babelrc" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.coveragerc" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.dockerignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.editorconfig" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.eslintignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.eslintrc" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.gitattributes" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.gitignore" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.pylintrc" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/.travis.yml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/settings/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/settings/common.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/settings/local.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/settings/production.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/settings/test.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/webpack.base.config.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/webpack.local.config.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/webpack.production.config.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/webpack.test.config.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/dev.yml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/caddy/Caddyfile" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/caddy/Dockerfile" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/django/Dockerfile" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/django/Dockerfile-dev" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/django/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/django/start-dev.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/django/start.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/node/Dockerfile" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/postgres/Dockerfile" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/postgres/backup.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/postgres/list-backups.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/docker/postgres/restore.sh" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/fabfile.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/karma.conf.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/manage.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/package.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/actions/userActions.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/components/App.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/constants/actionTypes.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/containers/DevTools.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/containers/UserApp.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/index.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/reducers/index.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/reducers/user.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/routes.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/store/configureStore.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr-react/util.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/serializer.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/api/v1/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/app/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/app/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/app/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/app/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/forms.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/tests/test_admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/tests/test_forms.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/beta/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/blog/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/sites/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/sites/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/sites/migrations/0002_set_site_domain_and_name.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/sites/migrations/0003_auto_20160729_1258.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/contrib/sites/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/defaults.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/plan.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/tasks.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/tests/test_plans.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/payments/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/css/app.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/css/blank.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/css/main.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/images/favicon.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/images/logo.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/images/logo_icon.png" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/js/project.js" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/taskapp/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/taskapp/celery.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/404.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/500.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/account_inactive.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_message.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_message.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_signup_message.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_signup_message.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_signup_subject.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/email_confirmation_subject.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/password_reset_key_message.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/password_reset_key_message.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email/password_reset_key_subject.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/email_confirm.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/login.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/cannot_delete_primary_email.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/email_confirmation_sent.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/email_confirmed.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/email_deleted.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/logged_in.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/logged_out.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/password_changed.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/password_set.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/primary_email_set.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/messages/unverified_primary_email.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_change.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_reset.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_reset_from_key.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_reset_from_key_done.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/password_set.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/signup.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/signup_closed.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/account/verification_sent.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/app/base.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/app/dashboard.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/base.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/beta/email/invite.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/beta/email/invite.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/beta/request_form.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/beta/request_success.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/blank_base.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/blog/entry_detail.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/blog/entry_list.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/about.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/features.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/home.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/pricing.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/privacy_policy.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pages/terms_and_conditions.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/payments/_change_button.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/payments/_octobat_checkout_button.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/payments/_pricing_box.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/_invoice_table.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/_stripe_js.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/paymentmethod_create.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/paymentmethod_update.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/subscription_create.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/subscription_delete.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/subscription_list.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/pinax/stripe/subscription_update.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/templates/users/user_form.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/adapters.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tasks.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/factory.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/test_admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/test_models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/test_tasks.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/tests/test_views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/users/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/requirements/base.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/requirements/local.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/requirements/production.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/requirements/test.txt" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/webpack.config.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/podcastr-django" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2SnKjJE5gLSIOUQjnHx6flTm4k2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,9 +237,47 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/royerzurumloglu/PycharmProjects/podcastr-django/launchr/app/static/images",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/launchr/app/static/images" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/launchr" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/podcastr/podcastr/static/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/launchr" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/launchr/app/podcast" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/launchr/app/users" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django/app" />
+      <recent name="$USER_HOME$/PycharmProjects/podcastr-django" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="launchr.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="launchr/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.launchr.app: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,11 +286,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689777038945</updated>
-      <workItem from="1689777040104" duration="639000" />
+      <workItem from="1689777040104" duration="4637000" />
+      <workItem from="1690105224121" duration="12087000" />
+      <workItem from="1690187069297" duration="10126000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

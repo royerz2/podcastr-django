@@ -1,4 +1,0 @@
-export const REQUEST_USER = 'REQUEST_USER'
-export const RECEIVE_USER = 'RECEIVE_USER'
-export const CHANGE_USER_NAME = 'CHANGE_USER_NAME'
-export const SAVE_USER = 'SAVE_USER'
